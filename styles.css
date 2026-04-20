@@ -1,0 +1,35 @@
+#card{
+    border: 1px solid red;
+    padding: 0 20px 20px 20px;
+    background-color: antiquewhite;
+}
+#main{
+    display: flex;
+    gap: 10px;
+}
+#outputarea{
+    border: 1px solid black;
+    height: 450px;
+    width: 100%;
+    max-width: 950px;
+}
+#inputarea{
+    max-width: 950px;
+    height: 450px;
+    width: 100%;
+    background-color: transparent;
+}
+h3{
+    background-color: burlywood;
+    padding: 20px;
+    text-align: center;
+}
+button{
+    background-color: blueviolet;
+    color: white;
+    padding: 10px;
+    border-radius: 5%;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 40%;
+}
